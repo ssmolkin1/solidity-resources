@@ -8,4 +8,4 @@
   - [[https://medium.com/@matthewdif/mechanism-design-security-in-smart-contracts-87f08555b38b][MDF on Mechanism Design Security]]
   - [[https://medium.com/@matthewdif/ethereum-payment-channel-in-50-lines-of-code-a94fad2704bc][MDF payment channel in 50 lines]]
 * Dev Tools
-  - [[https://gitter.im/ConsenSys/truffle] [Truffle gitter channel]]
+  - [[https://gitter.im/ConsenSys/truffle][Truffle gitter channel]]
